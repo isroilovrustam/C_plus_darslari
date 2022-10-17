@@ -3,13 +3,30 @@
 #include <iostream>
 using namespace std;
 int main(){
+
     /* While operatori */
+    
 //    int i = 0;
 //    while(i < 5){
 //        cout << "Assalomu alaykum \n";
 //        i++;
 //    }
     
+     /* 10 gacha bo`lgan sonlarni chiqarish (10 ni o`zi kirmaydi) */
+    
+//    int i = 0;
+//    while (i < 10){
+//        cout << i << " ";
+//        i++;
+//    }
+    
+    /* 10 dan 0 gacha bo`lgan sonlarni chiqarish (0 ni o`zi kirmaydi) */
+    
+//    int i = 10;
+//    while (i > 0){
+//        cout << i << " ";
+//        i--;
+//    }
     
     /* 10 gacha bo`lgan sonlar yig'indisini hisoblash ( 10 ni o`zi kirmaydi) */
     
