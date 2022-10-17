@@ -1,1 +1,124 @@
+/* Switch operatori bilan tanishamiz */
+
+#include <iostream>
+using namespace std;
+int main(){
+
+    /* Umumiy ko`rinishi */
+    
+//    switch(ifoda) {
+//      case x:
+//        // code
+//        break;
+//      case y:
+//        // code
+//        break;
+//      default:
+//        // code
+//    }
+    
+//    int kun = 4;
+//    switch (kun) {
+//      case 1:
+//        cout << "Duyshanba" << endl;
+//        break;
+//      case 2:
+//        cout << "Seyshanba" << endl;
+//        break;
+//      case 3:
+//        cout << "Chorshanba" << endl;
+//        break;
+//      case 4:
+//        cout << "Payshanba" << endl;
+//        break;
+//      case 5:
+//        cout << "Juma" << endl;
+//        break;
+//      case 6:
+//        cout << "Shanba" << endl;
+//        break;
+//      case 7:
+//        cout << "Yakshanba" << endl;
+//        break;
+//    }
+    
+//    int Fasl;
+//    cout << "Faslning raqamini kiriting: ";
+//    cin >> Fasl;
+//    cout << Fasl << "-fasl: ";
+//    switch (Fasl) {
+//        case 1:
+//            cout << "Bahor \n";
+//            break;
+//        case 2:
+//            cout << "Yoz \n";
+//            break;
+//        case 3:
+//            cout << "Kuz \n";
+//            break;
+//        case 4:
+//            cout << "Qish \n";
+//            break;
+//        default:
+//            cout << "1, 2, 3, 4 shulardan birini kiriting \n";
+//            break;
+//    }
+    
+//    int kun;
+//    cout << "Kun raqamini kiriting: ";
+//    cin >> kun;
+//    cout << kun << "-kun: ";
+//    switch (kun) {
+//      case 1:
+//        cout << "Duyshanba" << endl;
+//        break;
+//      case 2:
+//        cout << "Seyshanba" << endl;
+//        break;
+//      case 3:
+//        cout << "Chorshanba" << endl;
+//        break;
+//      case 4:
+//        cout << "Payshanba" << endl;
+//        break;
+//      case 5:
+//        cout << "Juma" << endl;
+//        break;
+//      case 6:
+//        cout << "Shanba" << endl;
+//        break;
+//      case 7:
+//        cout << "Yakshanba" << endl;
+//        break;
+//    }
+    
+    
+//    int day = 6;
+//    switch (day) {
+//      case 6:
+//        cout << "Bugun Shanba" << endl;
+//        break;
+//      case 7:
+//        cout << "Bugun Yakshanba" << endl;
+//        break;
+//      default:
+//        cout << "Bunday case yoq" << endl;
+//    }
+    
+    
+    
+    /* O'zingizni sinab ko`ring */
+    
+//    int day = 2;
+//    switch (...) {
+//     ... 1:
+//        cout << "Saturday";
+//        break;
+//     ... 2:
+//        cout << "Sunday";
+//        ....
+//    ;
+//    }
+    
+}
 
