@@ -1,0 +1,75 @@
+/* Assalomu alaykum bugundan sizlar bilan C++ darslarini boshlaymiz */
+
+/* Bugun chiqarish kiritish va keyngi satirga o`tish (cout, cin, endl, \n)
+ operatorlari bilan tanishamiz */
+
+#include <iostream>
+using namespace std;
+int main(){
+    /* Chiqarish operatori (cout) */
+    
+//    cout << "Hello World!";
+    
+//    cout << "Salom men chiqarish operatoriman";
+    
+//    string a = "Salom C++";
+//    cout << a;
+    
+//    string a = "Salom ", b = "C++";
+//    cout << a + b;
+    
+//    int son = 2;
+//    cout << son;
+    
+//    int son1 = 12, son2 = 24;
+//    cout << son1 + son2;
+    
+    /* Kiritish operatori (cin) */
+    
+//    string a;
+//    cin >> a;
+//    cout << a;
+    
+//    string a, b;
+//    cin >> a;
+//    cin >> b;
+//    cout << a;
+//    cout << b;
+    
+//    string a, b;
+//    cin >> a >> b;
+//    cout << a << b;
+    
+//    int son;
+//    cin >> son;
+//    cout << son;
+    
+//    int son1, son2;
+//    cin >> son1 >> son2;
+//    cout << son1 << son2;
+//    cout << son1 + son2;
+    
+    /* Keyingi satrga o`tish (endl; \n;) */
+    
+//    cout << "Salom Rustamjon" << endl;
+//    cout << "Qalesiz";
+    
+//    cout << "Salom Rustamjon \n";
+//    cout << "Qalesiz";
+    
+//    cout << "Salom Rustamjon\nQalesiz";
+    
+    /* Barchasini ishlatish ma'lumot chiqarish */
+    
+//    string ism, familiya;
+//    int yil;
+//    cout << "Ismingiz: ";
+//    cin >> ism;
+//    cout << "Familiyangiz: ";
+//    cin >> familiya;
+//    cout << "Tug`ilgan yilingiz: ";
+//    cin >> yil;
+//    cout << "Sizning yoshingiz: ";
+//    cout << 2022 - yil << endl;
+    
+}
