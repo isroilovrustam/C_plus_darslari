@@ -1,0 +1,104 @@
+    /* Bugun shart operatori (if, else, else if) bilan tanishamiz */
+
+#include <iostream>
+using namespace std;
+int main(){
+    
+    /* Umumiy ko`rinishi */
+    
+//    if (shart){
+        //kod yozish joyti
+//    }
+//    else{
+        //kod yozish joyti
+//    }
+    
+//    int a = 10;
+//    if (a < 100){
+//        cout << a << endl;
+//    }
+    
+//    int a;
+//    cout << "Son kiriting: ";
+//    cin >> a;
+//    if (a < 100){
+//        cout << "100 dan kichik" << endl;
+//    }
+    
+//    int a;
+//    cout << "Son kiriting: ";
+//    cin >> a;
+//    if (a < 100){
+//        cout << "100 dan kichik" << endl;
+//    }
+//    if (a > 100){
+//        cout << "100 dan katta" << endl;
+//    }
+    
+//    int son;
+//    cout << "Soni kiriting: ";
+//    cin >> son;
+//    cout << "Kiritilgan son: ";
+//    if(son % 2 == 0){
+//        cout << "Juft\n";
+//    }
+//    else{
+//        cout << "Toq\n";
+//    }
+    
+//    int son;
+//    cout << "Soni kiting: ";
+//    cin >> son;
+//    if(son % 5 == 0 and son % 10 == 0){
+//        cout << "Chiroyli son " << endl;
+//    }
+//    else if(son % 2 == 0 and son % 3 == 0){
+//        cout << "Yaxshi son " << endl;
+//    }
+//    else{
+//        cout << "Odiy son " << endl;
+//    }
+    
+//    int son;
+//    cout << "Soni kiriting: ";
+//    cin >> son;
+//    if(son > 0 and son < 10){
+//        cout << "Kiritilgan son 0 va 10 orasida \n";
+//    }
+//    else if(son > 10 and son < 50){
+//        cout << "Kiritilgan son 10 va 50 orasida \n";
+//    }
+//    else if(son > 50 and son < 100){
+//        cout << "Kiritilgan son 10 va 100 orasida \n";
+//    }
+//    else{
+//        cout << "Kiritilgan son 100 dan katta \n";
+//    }
+        
+//    int mavjud_parol = 1202, parol;
+//    cout << "Password: ";
+//    cin >> parol;
+//    if(parol == mavjud_parol){
+//        cout << "Tabriklaymiz siz to`g`ri topdingiz!!! \n";
+//    }
+//    else{
+//        cout << "Natog`ri urunish: " << endl;
+//    }
+        
+//    int mavjud_parol = 1202, yordamchi_parol, parol;
+//    cout << "Password: ";
+//    cin >> parol;
+//    if(parol == mavjud_parol){
+//        cout << "Tabriklaymiz siz to`g`ri topdingiz!!! \n";
+//    }
+//    else{
+//        cout << "Natog`ri urunish: " << endl;
+//        cout << "Yordamchi parolni kiriting: ";
+//        cin >> parol;
+//        if(parol == yordamchi_parol){
+//            cout << "Ikkinchi urinish to`g`ri !!! \n";
+//        }
+//    }
+    
+    
+}
