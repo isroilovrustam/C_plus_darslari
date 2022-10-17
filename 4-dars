@@ -1,1 +1,52 @@
+ /* Goto operatori bilan tanishamiz */
+
+#include <iostream>
+using namespace std;
+int main(){
+    
+    /* Son kiritamiz agar kiritilgan son 0 bolsa dastur to`xtasin va 0 gacha kiritilgan sonlar yig'indisini hisoblash */
+    
+//    int son, sum = 0;
+//    takror:
+//    cout << "Son kiriting: ";
+//    cin >> son;
+//    if(son != 0){
+//        sum = sum + son;
+//        goto takror;
+//    }
+//    else{
+//        cout << "Siz 0 ni kiritdingiz \n";
+//        cout << "Nolgacha kiritgan sonlaringiz yig'indisi: " << sum << endl;
+//    }
+    
+    /* Parolni topish o'yini */
+    
+//    int yashirin_parol = 1202, parol;
+//    cout << "Parolni kiriting: ";
+//    qayt:
+//    cin >> parol;
+//    if(parol != yashirin_parol){
+//        cout << "Xato parol !!! \nQayata urinib ko`ring: ";
+//        goto qayt;
+//    }
+//    else{
+//        cout << "Tabriklaymiz siz parolni topdingiz !!!\n";
+//    }
+    
+    /* Maxfiy so'z o'yini */
+    
+//    string maxfiy_soz = "AbRuIs", soz;
+//    cout << "Maxfiy so'zni ayting: ";
+//    qayt:
+//    cin >> soz;
+//    if(soz != maxfiy_soz){
+//        cout << "XATO !!!\n";
+//        cout << "Qayta urinib ko`ring: ";
+//        goto qayt;
+//    }
+//    else{
+//        cout << "Maxfiy so'z to'g'ri omadingizni bersin !!! \n";
+//    }
+    
+}
 
