@@ -1,1 +1,66 @@
+    /* For operatori bilan tanishamiz */
 
+#include <iostream>
+using namespace std;
+int main(){
+    
+//    for(int i = 0; i < 5; i++){
+//        cout << "Assalomu alaykum \n";
+//    }
+    
+    /* 10 gacha bo`lgan sonlarni chiqarish (10 ni o`zi kirmaydi) */
+    
+//    for(int i = 0; i < 10; i++){
+//        cout << i << " ";
+//    }
+    
+    /* 10 dan 0 gacha bo`lgan sonlarni chiqarish */
+    
+//    for(int i = 10; i > 0; i--){
+//        cout << i << " ";
+//    }
+    
+    /* 10 gacha bo`lgan sonlar yig'indisini hisoblash ( 10 ni o`zi kirmaydi) */
+    
+//    int sum = 0;
+//    for(int i = 0; i < 10; i++){
+//        sum += i;
+//    }
+//    cout << "10 gacha bo`lgan sonlar yig`indisi: " << sum << endl;
+    
+    /* Kiritilgan songacha (n) bo`lgan raqamlar yig`indisi ((n) ni o`zi kirmaydi) */
+    
+//    int n, sum = 0;
+//    cout << "Son kiriting: ";
+//    cin >> n;
+//    for(int i = 0; i < n; i++){
+//        sum += i;
+//    }
+//    cout << n << " gacha bo`lgan sonlar yig`indisi: " << sum << endl;
+    
+    
+    /* Kiritilgan (n) sonigacha bo`lgan juft sonlarni chiqarish ((n) ni o`zi kirmaydi ) */
+    
+//    int n;
+//    cout << "Son kiriting: ";
+//    cin >> n;
+//    for(int i = 1; i < n; i++){
+//        if(i % 2 == 0){
+//            cout << i << " ";
+//        }
+//    }
+    
+    /* Kiritilgan (n) sonigacha bo`lgan juft sonlarni yig`indisini chiqarish ((n) ni o`zi kirmaydi ) */
+    
+//    int n, sum = 0;
+//    cout << "Soni kiriting: ";
+//    cin >> n;
+//    for(int i = 1; i < n; i++){
+//        if(i % 2 == 0){
+//            sum = sum + i;
+//        }
+//    }
+//    cout << "n gacha bo`lgan juft sonlar yig`indisi: " << sum << endl;
+    
+    return 0;
+}
