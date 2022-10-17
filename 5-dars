@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    
+    /* While operatori */
 //    int i = 0;
 //    while(i < 5){
 //        cout << "Assalomu alaykum \n";
@@ -46,6 +46,25 @@ int main(){
 //        i++;
 //    }
 //    cout << endl;
+
+/* Do while operatori */
+    
+/* Bu shunchaki while sharti no to`g`ri bo`lsa faqat bir marta ishlaydi
+ agar while ning shati to`g`ri bo`lsa qayta-qayta ishlaydi */
+    
+//    int i = 0;
+//    do {
+//      cout << i << "\n";
+//      i++;
+//    }
+//    while (i < 5);
+    
+//    int i = 6;
+//    do {
+//      cout << i << "\n";
+//      i++;
+//    }
+//    while (i < 5);
     
     
 }
