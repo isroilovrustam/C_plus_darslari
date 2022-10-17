@@ -1,0 +1,111 @@
+   /* Funksiya bilan tanishamiz */
+
+#include <iostream>
+using namespace std;
+
+    /* Salomlashish funksiyasi */
+
+//int salom(){
+//    cout << "Assalomu alaykum !!! ";
+//    return true;
+//}
+//
+//int main(){
+//    salom();
+//    cout << endl;
+//    return 0;
+//}
+
+    /* Ikkita soning yig`indisini qaytaruvchi funksiya */
+
+//int qoshish(int x, int y){
+//    cout << "x + y = ";
+//    return x+y;
+//}
+
+//int main(){
+//    cout << qoshish(3, 5) << endl;
+//    return 0;
+//}
+
+    /* Matematik amalar funksiyasi */
+
+//int qoshish(int x, int y){
+//    cout << "x + y = ";
+//    return x+y;
+//}
+
+//int ayirish(int x, int y){
+//    cout << "x - y = ";
+//    return x-y;
+//}
+
+//int kopaytirish(int x, int y){
+//    cout << "x * y = ";
+//    return x*y;
+//}
+
+//int bolish(int x, int y){
+//    cout << "x / y = ";
+//    return x/y;
+//}
+
+//int main(){
+//    cout << qoshish(15, 3) << endl;
+//    cout << ayirish(15, 3) << endl;
+//    cout << kopaytirish(15, 3) << endl;
+//    cout << bolish(15, 3) << endl;
+//    return 0;
+//}
+
+    /* 10 gacha bo`lgan sonlarni chiqarish funksiyasi (10 ni o`zi kirmaydi)*/
+
+//int sonlar(){
+//    for(int i = 0; i < 10; i++){
+//        cout << i << " ";
+//    }
+//    return true;
+//}
+
+//int main(){
+//    sonlar();
+//    cout << endl;
+//    return 0 ;
+//}
+
+    /* n gacha bo`lgan sonlarni chiqarish funksiyasi ((n) ni o`zi kirmaydi)*/
+
+//int sonlar(int n){
+//    for(int i = 0; i < n; i++){
+//        cout << i << " ";
+//    }
+//    return true;
+//}
+
+//int main(){
+//    int n;
+//    cout << "Son kiriting: ";
+//    cin >> n;
+//    sonlar(n);
+//    cout << endl;
+//    return 0 ;
+//}
+
+    /* n gacha bo`lgan juft sonlarni qaytaruvchi funksiya */
+
+//int juft(int n){
+//    for(int i = 1; i < n; i++){
+//        if(i % 2 == 0){
+//            cout << i << " ";
+//        }
+//    }
+//    return true;
+//}
+
+//int main(){
+//    int n;
+//    cout << "Son kiriting: ";
+//    cin >> n;
+//    juft(n);
+//    return 0;
+//}
