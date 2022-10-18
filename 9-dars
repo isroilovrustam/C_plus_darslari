@@ -1,1 +1,112 @@
+ /* Void funksiya va Rekursiv funksiyalar bilan tanishamiz */
+
+#include <iostream>
+using namespace std;
+
+    /* Salomlashuv funksiyasi */
+
+//void salom(string ism){
+//    cout << "Assalomu alaykum " << ism << endl;
+//}
+
+//int main(){
+//    string ism;
+//    cout << "Ismingizni kiriting: "; cin >> ism;
+//    salom(ism);
+//
+//    return 0;
+//}
+
+    /* Kalkulyator funksiyasi */
+
+//void kalku(int x, int y){
+//    cout << "x + y = " << x + y << endl;
+//    cout << "x - y = " << x - y << endl;
+//    cout << "x * y = " << x * y << endl;
+//    cout << "x / y = " << x / y << endl;
+//}
+
+//int main(){
+//    int x, y;
+//    cout << "1 - soni kiriting: "; cin >> x;
+//    cout << "2 - soni kiriting: "; cin >> y;
+//    kalku(x, y);
+//    return 0;
+//}
+
+
+    /* Kiritilgan raqamgacha bo`lgan sonlar yig`indisini hisoblash uchun funksiya */
+
+//void yigindi(int raqam){
+//    int sum = 0;
+//    for(int i = 0; i < raqam; i++){
+//        sum += i;
+//    }
+//    cout << raqam << " gacha bo`lgan sonlar yig`indisi: " << sum << endl;
+//}
+
+//int main(){
+//    int son;
+//    cout << "Raqamni kiriting: "; cin >> son;
+//    yigindi(son);
+//}
+
+/* Kiritilgan soning kvadratini qaytarish funksiyasi */
+
+//void kvadrat(int raqam){
+//    int kv = 1;
+//    kv = raqam * raqam;
+//    cout << raqam <<"^2 = " << kv << endl;
+//}
+
+//int main(){
+//    int son;
+//    cout << "Soni kiriting: "; cin >> son;
+//    kvadrat(son);
+//
+//    return 0;
+//}
+
+
+    /* Kvadrat tenglamani (a*(x*x) + b*x + c = 0) hisoblash funksiyasi */
+
+//void tenglama(int a, int b, int c, int x){
+//    int sum=0;
+//    sum =a*x*x+b*x+c;
+//    cout << "a*x^2 + b*x + c \n";
+//    cout << "Natija: " << sum << endl;
+//}
+
+//int main(){
+//    int a,b,c,x;
+//    cout << "a ni kiriting: "; cin >> a;
+//    cout << "b ni kiriting: "; cin >> b;
+//    cout << "c ni kiriting: "; cin >> c;
+//    cout << "x ni kiriting: "; cin >> x;
+//    tenglama(a,b,c,x);
+//    return 0;
+//}
+
+
+    /* Rekursiv funksiya */
+
+    /* Faktarial (!) ni hisoblash */
+
+//int fact(int son){
+//    if(son < 0){
+//        return -1;
+//    }
+//    if(son == 0){
+//        return 1;
+//    }
+//    else{
+//    return son*fact(son - 1);
+//    }
+//}
+
+//int main(){
+//    int son;
+//    cout << "Soni kiriting: "; cin >> son;
+//    cout << son << " != " << fact(son) << "\n";
+//}
 
