@@ -1,0 +1,73 @@
+    /* Massivlar (Arrays) bilan tanishamiz */
+
+#include <iostream>
+using namespace std;
+int main(){
+    
+//    int arr[5] = {1, 2, 3, 4, 5};
+//    cout << arr[0] << endl;
+//    cout << arr[1] << endl;
+//    cout << arr[2] << endl;
+//    cout << arr[3] << endl;
+//    cout << arr[4] << endl;
+    
+    /* Massiv (arr) ustida turli amallar */
+    
+//    int arr[5] = {12, 2, 34, 25, 8};
+    
+//    cout << arr[0] + arr[3] << endl;
+//    cout << arr[2] * arr[1] << endl;
+//    cout << arr[2] - arr[0] << endl;
+//    cout << arr[4] / arr[1] << endl;
+    
+    /* Massiv elementlarini chop etish */
+    
+//    int arr[5] = {12, 2, 34, 25, 8};
+
+//    for(int i = 0; i < 5; i++){
+//        cout << i << " indexda: " << arr[i] << endl;
+//    }
+    
+    /* Massivga (arr) element qo`shish */
+    
+//    int arr[5];
+
+//    for(int i = 0; i < 5; i++){
+//        cout << "Son kiriting: ";
+//        cin >> arr[i];
+//        cout << "Massivning " << i << " indexsiga: " << arr[i] << " qo`shildi" << endl;
+//    }
+//    cout << "Massiv to`ldi \n";
+    
+    /* Massivga (arr) element qo`shish va ularni yig`indisini hisoblash */
+    
+//    int arr[8], sum = 0;
+//    cout << "8 ta son kiriting: ";
+//    for(int i = 0; i < 8; i++){
+//        cin >> arr[i];
+//    }
+//    cout << "Kiritilgan elementlar: ";
+//    for(int i = 0; i < 8; i++){
+//        cout << arr[i] << " ";
+//        sum += arr[i];
+//    }
+//    cout << "\n" << "Elementlar yig`indisi: " << sum << endl;
+
+    /* Massivga (arr) juft indexdagi elementlarini yig`indisini hisoblash */
+    
+//    int arr[8], sum = 0;
+//    cout << "8 ta son kiriting: ";
+//    for(int i = 0; i < 8; i++){
+//        cin >> arr[i];
+//    }
+//    cout << "Kiritilgan elementlar: ";
+//    for(int i = 0; i < 8; i++){
+//        cout << arr[i] << " ";
+//        if(i % 2 == 0){
+//            sum += arr[i];
+//        }
+//    }
+//    cout << "\n" << "Juft indexdagi elementlar yig`indisi: " << sum << endl;
+        
+    
+}
